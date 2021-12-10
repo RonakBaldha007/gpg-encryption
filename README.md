@@ -4,13 +4,13 @@ python-gnupg is a Python package for encrypting and decrypting strings or files 
 
 ## Install
 
-$ sudo apt-get install gnupg /n
-$ sudo adduser testgpguser 
-$ sudo su testgpguser 
-$ cd 
-$ virtualenv --no-site-packages venv 
-$ source venv/bin/activate 
-$ pip install python-gnupg 
+$ sudo apt-get install gnupg <br />
+$ sudo adduser testgpguser <br />
+$ sudo su testgpguser <br />
+$ cd <br />
+$ virtualenv --no-site-packages venv <br />
+$ source venv/bin/activate <br />
+$ pip install python-gnupg <br />
 
 ## Generate a key
 
