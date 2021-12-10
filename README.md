@@ -4,7 +4,7 @@ python-gnupg is a Python package for encrypting and decrypting strings or files 
 
 ## Install
 
-$ sudo apt-get install gnupg 
+$ sudo apt-get install gnupg /n
 $ sudo adduser testgpguser 
 $ sudo su testgpguser 
 $ cd 
